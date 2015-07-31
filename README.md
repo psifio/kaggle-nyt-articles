@@ -1,1 +1,1 @@
-My submission for Kaggle competition of new yor times articles popularity
+My submission for Kaggle competition ( new york times articles popularity )
